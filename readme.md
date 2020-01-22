@@ -1,4 +1,4 @@
-# Documentation for News Data Analysis and Classification
+# News Data Analysis and Classification
 
 This project scrapes 50 news articles from each of Irrawaddy, Eleven, DVB, Mizzima and The Voice, totalling 250 articles. The data is cleaned. EDA, topic modelling, string querying and document classification (statistical and neural network) are performed.
 
